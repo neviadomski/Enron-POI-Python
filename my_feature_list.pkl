@@ -1,0 +1,14 @@
+(lp0
+S'poi'
+p1
+aS'salary'
+p2
+aS'exercised_stock_options'
+p3
+aS'PCA1'
+p4
+aS'from_POI_percent'
+p5
+aS'to_POI_percent'
+p6
+a.
